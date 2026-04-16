@@ -1,7 +1,29 @@
-# Hey, I am Aman Rajput 
+# Hey, I'm Aman Rajput
 
+Full-Stack AI Engineer focused on building production-grade AI systems — multi-agent pipelines, RAG architectures, and local-first LLM applications.
 
-I like building things that are fast, correct, and a little interesting under the hood — from multi-agent RAG pipelines to fully offline browser LLMs. Primary language is Java; comfortable across the stack.
+I build systems that are:
+- **Fast** (async pipelines, low-latency inference)
+- **Reliable** (retry logic, backpressure, fault tolerance)
+- **Scalable** (distributed systems, queues, observability)
+  
+Comfortable across the full stack.
+
+---
+
+## Technical Skills
+
+**Languages:** Java (Primary), JavaScript, TypeScript, Python, C++, SQL  
+
+**Backend & Systems:** REST APIs, Multithreading, Async Job Queues, Distributed Systems, PostgreSQL, MongoDB, Redis, Prisma  
+
+**Frontend:** React, Next.js, TypeScript, Component-Driven Architecture, WebRTC, WebGPU, PWA  
+
+**AI / Agentic Systems:** LLM APIs, RAG Pipelines, Multi-Agent Orchestration, Embeddings, Tool Use, ReAct Loops, FAISS, Prompt Engineering  
+
+**Tools & Platforms:** Git, Docker (Basics), Linux, Node.js, Railway, Vercel, Langfuse, Supabase  
+
+**Engineering Practices:** OOP, Clean Code, Observability, Performance Optimization, Scalability, First-Principles Design
 
 ---
 
