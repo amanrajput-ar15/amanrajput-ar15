@@ -7,7 +7,7 @@ I like building things that are fast, correct, and a little interesting under th
 
 ##  Projects
 
-### [AgenticArXiv](https://github.com/amanrajput) — Multi-Agent Research System
+### [AgenticArXiv](https://github.com/amanrajput-ar15/AgenticArXiv-mvp) — Multi-Agent Research System
 `FastAPI` `Gemini 2.5 Flash` `FAISS` `MongoDB` `Redis` `Langfuse`
 
 An async research pipeline that ingests ArXiv PDFs and runs a 5-agent RAG system to produce structured research reports.
@@ -19,7 +19,7 @@ An async research pipeline that ingests ArXiv PDFs and runs a 5-agent RAG system
 
 ---
 
-### [VoidChats](https://github.com/amanrajput) — In-Browser AI Chat App
+### [VoidChats](https://github.com/amanrajput-ar15/voidchats) — In-Browser AI Chat App
 `Next.js` `WebGPU` `WebLLM` `Transformers.js` `AES-GCM` `PWA`
 
 A fully offline AI chat app — no server, no API costs. A 3B-parameter quantized LLM (Qwen 2.5) runs entirely in the browser.
@@ -31,7 +31,7 @@ A fully offline AI chat app — no server, no API costs. A 3B-parameter quantize
 
 ---
 
-### [Multithreaded TCP Web Server](https://github.com/amanrajput) — Systems Deep Dive
+### [Multithreaded TCP Web Server](https://github.com/amanrajput-ar15/Multithreaded-Web-server-JAVA) — Systems Deep Dive
 `Java` `TCP Sockets` `ExecutorService` `java.util.concurrent`
 
 Built and benchmarked three concurrency architectures from scratch in raw Java TCP.
