@@ -1,4 +1,4 @@
-# Hey, I'm Aman Rajput 
+# Hey, I am Aman Rajput 
 
 
 I like building things that are fast, correct, and a little interesting under the hood — from multi-agent RAG pipelines to fully offline browser LLMs. Primary language is Java; comfortable across the stack.
