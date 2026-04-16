@@ -1,4 +1,4 @@
-# Hey, I'm Aman Rajput
+# Hey, I am Aman Rajput
 
 Full-Stack AI Engineer focused on building production-grade AI systems — multi-agent pipelines, RAG architectures, and local-first LLM applications.
 
