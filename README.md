@@ -1,12 +1,11 @@
-# Hey, I'm Aman Rajput 👋
+# Hey, I'm Aman Rajput 
 
-> B.Tech CSE @ RGIPT Amethi · Builder · Systems thinker
 
 I like building things that are fast, correct, and a little interesting under the hood — from multi-agent RAG pipelines to fully offline browser LLMs. Primary language is Java; comfortable across the stack.
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
 ### [AgenticArXiv](https://github.com/amanrajput) — Multi-Agent Research System
 `FastAPI` `Gemini 2.5 Flash` `FAISS` `MongoDB` `Redis` `Langfuse`
@@ -43,7 +42,7 @@ Built and benchmarked three concurrency architectures from scratch in raw Java T
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Area | Tools |
 |---|---|
@@ -56,16 +55,14 @@ Built and benchmarked three concurrency architectures from scratch in raw Java T
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - **AIR 2321 – JEE Advanced 2023** — top 0.3% nationally among ~1 million candidates
 - **LeetCode Contest Rating 1600+** — consistent performance in timed contests; strong in DSA, graphs, and DP (Java)
 
 ---
 
-## 📬 Get in touch
+##  Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/aman-rajput-ar113114/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:iamanrajput00@gmail.com)
